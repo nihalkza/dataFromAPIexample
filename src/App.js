@@ -34,6 +34,7 @@ class App extends Component {
                         <span className={styles.c3}>Record </span>
                         <span className={styles.c4}>Tracker</span>
                     </p>
+                    <small>Last Update: {new Date(data.lastUpdate).toTimeString()}</small>
                 </div>
                 <Cards data={data} />
                 <CountryPicker handleCountryChange={this.handleCountryChange} />
