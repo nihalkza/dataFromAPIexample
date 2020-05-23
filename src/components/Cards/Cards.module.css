@@ -1,0 +1,37 @@
+.container{
+    margin: 50px 0 ;
+}
+
+.card{
+    margin: 0 2% !important;
+    width: 400px !important;
+    background: #fff !important;
+}
+
+.infacted{
+    border-top: 10px solid blue;
+}
+
+.recovered{
+    border-top: 10px solid green;
+}
+
+.deaths{
+    border-top: 10px solid red;
+}
+
+.red{
+    color: red !important;
+}
+.blue{
+    color: blue !important;
+}
+.green{
+    color: green !important;
+}
+
+@media (max-width: 770px){
+    .card{
+        margin: 2% 0 !important;
+    }
+}

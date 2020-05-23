@@ -1,0 +1,71 @@
+body{
+    background: url('./image/bg.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container{
+    background-color:#dadaba;
+    opacity: 0.9;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logofont{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 50px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #222;
+}
+
+.logospin{
+    isplay: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+    animation-name: spin;
+    animation-duration: 5000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@media (max-width: 770px){
+    .container{
+        margin: 10%;
+        opacity: 1;
+    }
+    body{
+        background: #dadaba;
+    }
+
+    .logo{
+        width: 100%;
+    }
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+.c1{
+    color: #3f8a4d;
+}
+.c2{
+    color: #be643d;
+}
+.c3{
+    color: #864a82;
+}
+.c4{
+    color: #247ea5;
+}
