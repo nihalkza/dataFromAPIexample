@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/covid-19/static/css/main.23b1fc77.chunk.css",
-    "main.js": "/covid-19/static/js/main.a8d836bf.chunk.js",
-    "main.js.map": "/covid-19/static/js/main.a8d836bf.chunk.js.map",
-    "runtime-main.js": "/covid-19/static/js/runtime-main.86bf5399.js",
-    "runtime-main.js.map": "/covid-19/static/js/runtime-main.86bf5399.js.map",
-    "static/js/2.df5ad28a.chunk.js": "/covid-19/static/js/2.df5ad28a.chunk.js",
-    "static/js/2.df5ad28a.chunk.js.map": "/covid-19/static/js/2.df5ad28a.chunk.js.map",
-    "index.html": "/covid-19/index.html",
-    "precache-manifest.16bb77cab8b32a34e98f3e00718252ef.js": "/covid-19/precache-manifest.16bb77cab8b32a34e98f3e00718252ef.js",
-    "service-worker.js": "/covid-19/service-worker.js",
-    "static/css/main.23b1fc77.chunk.css.map": "/covid-19/static/css/main.23b1fc77.chunk.css.map",
-    "static/js/2.df5ad28a.chunk.js.LICENSE.txt": "/covid-19/static/js/2.df5ad28a.chunk.js.LICENSE.txt",
-    "static/media/App.module.css": "/covid-19/static/media/bg.f71bdafa.gif",
-    "static/media/logo.png": "/covid-19/static/media/logo.662041f6.png"
+    "main.css": "/COVID19/static/css/main.8d3f3b62.chunk.css",
+    "main.js": "/COVID19/static/js/main.6b87bcaf.chunk.js",
+    "main.js.map": "/COVID19/static/js/main.6b87bcaf.chunk.js.map",
+    "runtime-main.js": "/COVID19/static/js/runtime-main.842146e4.js",
+    "runtime-main.js.map": "/COVID19/static/js/runtime-main.842146e4.js.map",
+    "static/js/2.cbe4c080.chunk.js": "/COVID19/static/js/2.cbe4c080.chunk.js",
+    "static/js/2.cbe4c080.chunk.js.map": "/COVID19/static/js/2.cbe4c080.chunk.js.map",
+    "index.html": "/COVID19/index.html",
+    "precache-manifest.97261e75f18f05c4fa110dd9e6b49a9a.js": "/COVID19/precache-manifest.97261e75f18f05c4fa110dd9e6b49a9a.js",
+    "service-worker.js": "/COVID19/service-worker.js",
+    "static/css/main.8d3f3b62.chunk.css.map": "/COVID19/static/css/main.8d3f3b62.chunk.css.map",
+    "static/js/2.cbe4c080.chunk.js.LICENSE.txt": "/COVID19/static/js/2.cbe4c080.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/COVID19/static/media/bg.f71bdafa.gif",
+    "static/media/logo.png": "/COVID19/static/media/logo.662041f6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.86bf5399.js",
-    "static/js/2.df5ad28a.chunk.js",
-    "static/css/main.23b1fc77.chunk.css",
-    "static/js/main.a8d836bf.chunk.js"
+    "static/js/runtime-main.842146e4.js",
+    "static/js/2.cbe4c080.chunk.js",
+    "static/css/main.8d3f3b62.chunk.css",
+    "static/js/main.6b87bcaf.chunk.js"
   ]
 }
